@@ -43,8 +43,39 @@ In this section, we'll be taking a brief overview of all the commands!
 - [/vote](): Vote for the bot. 
 - [/google](): Search on Google.
 - [/youtube](): Search on YouTube. 
-- [/image](): Fetch an image.
+- [/image](): Fetches an image.
 
 #### Fun
 
-- 
+- [/cursed]():Showss a cursed Minecraft picture.
+- [/4chan](): Shows a 4chan picture. 
+- [/meme](): Fetches a meme from Reddit.
+- [/comic](): Shows a comic.
+- [/say](): Make the bot say anything. 
+- [/enchant](): Translate English to the Galactic Alphabet (enchanting table language).
+- [/disenchant](): Translate the Galactic Alphabet to English. 
+- [/villagerspeak](): Translate English to what the villagers say.
+- [/clap](): 👏 Make 👏 text 👏 look 👏 like 👏 this.👏
+- [/emojify](): Turn text into alphabetic emojis.
+- [/sarcastic](): mAkE sArCAsTic TeXt.
+- [/owo](): Turn text into the owo language.
+- [/vaporwave](): Ｅｌｏｎｇａｔｅ ｔｅｘｔ.
+- [/kill](): Get funny death messages.
+- [/bubblewrap](): Pop them bubbles.
+- [/coinflip](): Flip a coin.
+- [/pat](): Pat someone.
+- [/achievement](): Achievement get: Make custom achievements!
+- [/splashtext](): Make custom splashes!
+
+#### Minecraft 
+
+- [/mcstatus](): Find the status of a specified Minecraft server.
+- [/randommc](): Find a random server.
+- [/mcimage](): Turn images into pixel art!
+- [/stealskin](): Fetch someone's skin.
+- [/mcprofile](): Fetch details about a Minecraft player. 
+- [/buildidea](): Get a random build idea!
+- [/rcon](): Execute Minecraft commands, straight from Discord!
+- [/mccolors](): Get info on how to color chat messages.
+
+This is only a brief overview of all the commands, if you want in-depth info, click on the command name!
