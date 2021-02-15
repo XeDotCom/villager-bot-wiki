@@ -2,7 +2,7 @@
 
 ### Mobs 
 
-Mobs spawn naturally while mining. They spawn randomly every 40 mines. 
+Mobs spawn naturally while mining. They spawn randomly every 40 mines. They are a very good source of emeralds.
 
 You can attack a mob by typing `attack`, `atk`, `bonk`, `punch`, or `hit`.
 
