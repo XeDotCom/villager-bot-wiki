@@ -3,7 +3,7 @@
 ### Step 1: Invite the bot.
  (This step requires you having a server and/or you having Manage Server permission)
  
- Invite the bot to your server using (LINK HERE). This will take you to a page asking for the permissions required for the bot to work in your server. Check all the permissions required and complete the verification to add the bot to your server.
+ Invite the bot to your server using [this link](https://top.gg/bot/639498607632056321/invite). This will take you to a page asking for the permissions required for the bot to work in your server. Check all the permissions required and complete the verification to add the bot to your server.
 
 ### Step 2: Basic Configuration (optional)
  
