@@ -1,6 +1,4 @@
-## The Official Wiki For Villager Bot
-
-### Mining
+## Mining
 
 Mining is one of the most important parts of the economy in this bot. You mine for emeralds, the main currency and items, which can be collected! To mine, you use the `/mine` command or its aliases, `/eun` and `/mein`. 
 
@@ -39,7 +37,7 @@ Fortune books increase the amount of emeralds you can get per mine.
 
 Other items also influence your emerald yield
 
-Bane Of Pillagers Amulet: (retracted)
+Bane Of Pillagers Amulet: adds 2 more emeralds to your base yield. 
 Rich Person Trophy: doubles your yield.
 
 Mobs too spawn when you mine! Read about them [here](mobs.md) 

@@ -1,6 +1,4 @@
-## The Official Wiki For Villager Bot 
-
-### Mobs 
+## Mobs 
 
 Mobs spawn naturally while mining. They spawn randomly every 40 mines. They are a very good source of emeralds.
 

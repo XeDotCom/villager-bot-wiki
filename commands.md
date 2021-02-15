@@ -1,10 +1,8 @@
-## The Official Wiki For Villager Bot!
-
-### 3. Commands!
+## 3. Commands!
 
 In this section, we'll be taking a brief overview of all the commands!
 
-#### Economy
+### Economy
 
 - [/mine](): Mine for emeralds and items!
 - [/profile](): See your profile.
@@ -14,15 +12,15 @@ In this section, we'll be taking a brief overview of all the commands!
 - [/withdraw](): Withdraw from the vault.
 - [/give](): Bestow your benevolence on your friends.
 - [/shop](): Buy items and tools from the Villager Shop!
-- [/buy](): Buy items from the shop.]
+- [/buy](): Buy items from the shop.
 - [/sell](): Sell your items to the bot.
 - [/search](): Find some rogue emeralds. 
 - [/honey](): Collect honey from your apiary.
-- [/pillage](): Steal.
+- [/pillage](): Steal from your friends.
 - [/use](): Use potions and presents. 
 - [/leaderboard](): Check who's on top. 
 
-#### Moderation
+### Moderation
 
 - [/warn](): Warn a user.
 - [/warns](): Check the warns of a user.
@@ -32,7 +30,7 @@ In this section, we'll be taking a brief overview of all the commands!
 - [/pardon](): Unban a user.
 - [/purge](): Purge messages. 
 
-#### Utility 
+### Utility 
 
 - [/help](): Shows the help message.
 - [/ping](): Check the ping of the bot.
@@ -45,9 +43,9 @@ In this section, we'll be taking a brief overview of all the commands!
 - [/youtube](): Search on YouTube. 
 - [/image](): Fetches an image.
 
-#### Fun
+### Fun
 
-- [/cursed]():Showss a cursed Minecraft picture.
+- [/cursed](): Shows a cursed Minecraft picture.
 - [/4chan](): Shows a 4chan picture. 
 - [/meme](): Fetches a meme from Reddit.
 - [/comic](): Shows a comic.
@@ -67,7 +65,7 @@ In this section, we'll be taking a brief overview of all the commands!
 - [/achievement](): Achievement get: Make custom achievements!
 - [/splashtext](): Make custom splashes!
 
-#### Minecraft 
+### Minecraft 
 
 - [/mcstatus](): Find the status of a specified Minecraft server.
 - [/randommc](): Find a random server.
