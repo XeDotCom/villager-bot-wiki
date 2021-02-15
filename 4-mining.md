@@ -10,7 +10,7 @@ The command has a two second cooldown. Cooldown is affected by haste potions and
 | Haste 2 Potion      | 1s (Duration: 4.5m)|
 | Efficiency I Book   | 0.5s (Permanent)   |
 
-Pickaxes are essential to mining. Each level of pickaxe increases the chance of an emerald on a mine.
+Pickaxes are essential to mining. Each level of pickaxe increases the chance of finding emeralds when mining.
 
 | Pickaxe   | Chance |
 |-----------|--------|
@@ -35,7 +35,7 @@ Fortune books increase the amount of emeralds you can get per mine.
 |       | 20%: 3   |
 |       | 20%: 4   |
 
-Other items also influence your emerald yield
+Other items also influence your emerald yield:
 
 Bane Of Pillagers Amulet: adds 2 more emeralds to your base yield.
 
