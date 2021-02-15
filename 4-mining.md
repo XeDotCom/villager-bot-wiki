@@ -41,4 +41,4 @@ Bane Of Pillagers Amulet: adds 2 more emeralds to your base yield.
 
 Rich Person Trophy: doubles your yield.
 
-Mobs too spawn when you mine! Read about them [here](mobs.md) 
+Mobs can spawn when you mine! Read about them [here](mobs.md) 
