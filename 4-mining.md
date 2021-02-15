@@ -8,7 +8,7 @@ The command has a two second cooldown. Cooldown is affected by haste potions and
 |---------------------|--------------------|
 | Haste I Potion      | 0.5s (Duration: 6m)|
 | Haste II Potion     | 1s (Duration: 4.5m)|
-| Efficiency I Book   | 0.4s (Permanent)   |
+| Efficiency I Book   | 0.5s (Permanent)   |
 
 Pickaxes are essential to mining. Each level of pickaxe increases the chance of an emerald on a mine.
 
