@@ -37,7 +37,8 @@ Fortune books increase the amount of emeralds you can get per mine.
 
 Other items also influence your emerald yield
 
-Bane Of Pillagers Amulet: adds 2 more emeralds to your base yield. 
+Bane Of Pillagers Amulet: adds 2 more emeralds to your base yield.
+
 Rich Person Trophy: doubles your yield.
 
 Mobs too spawn when you mine! Read about them [here](mobs.md) 
