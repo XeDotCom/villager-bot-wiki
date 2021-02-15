@@ -3,11 +3,11 @@ The official wiki!
 
 ## Menu
 
-- Intro: [Click here](./intro.md)
-- Getting started: [Click here](./getting-started.md)
-- Commands: [Click here](./commands.md)
-- Mining: : [Click here](./mining.md)
-- Mobs: [Click here](./mobs.md)
+- Intro: [Click here](./1-intro.md)
+- Getting started: [Click here](./2-getting-started.md)
+- Commands: [Click here](./3-commands.md)
+- Mining: : [Click here](./4-mining.md)
+- Mobs: [Click here](./5-mobs.md)
 
 ## Contributing
 If you wanna help, join the [server!](https://discord.gg/XwgJ69uHQY)
