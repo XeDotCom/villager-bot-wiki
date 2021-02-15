@@ -12,16 +12,16 @@
  You can do some basic configuration to personalize the bot for your server. 
  All configuration setup is done through the `/config` command. 
  
- ##### Changing the prefix: `/config prefix [new prefix here]`
+ ##### Changing the prefix: `/config prefix <new prefix here>`
  
   Example: `/config prefix !!` (changes the prefix to !!)
  
- ##### Setting the default Minecraft server: `/config mcserver [IP of server]`
+ ##### Setting the default Minecraft server: `/config mcserver <IP of server>`
  
   This is related to the (`/mcserver`)[mcserver.md] command. 
   Example: `/config mcserver play.xenon.ml:19193`
  
- ##### Changing the language: `/config language [language code]`
+ ##### Changing the language: `/config language <language code>`
  
   The bot is currently only available in Spanish (es) and English(US) (en-us).
   Example: `/config language es` (changes the language to Spanish! ¡hola!)
