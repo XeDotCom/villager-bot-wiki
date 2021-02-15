@@ -26,10 +26,14 @@ The Sharpness enchantment increases damage caused to mobs.
 
 Slimes are a different type of mob. Unlike other mobs, the slime is invincible for the first two attacks. After the second attack, there is a 1/3 chance of your attack dealing damage to the mob. Slimes drop slimeballs, which can be used to buy the slime trophy, which doubles your accuracy against slimes.
 
-After the mob dies, it drops emeralds. The amount of emeralds dropped are based on two variables: difficulty and the amount of emeralds in your pocket. The drops max out if there is more than 256 emeralds in your pocket. It's calculated using this equation:
-```py 
-(need further citation)
-```
+After the mob dies, it drops emeralds. The amount of emeralds dropped are based on two variables: difficulty and the amount of emeralds in your pocket. The drops max out if there is more than 256 emeralds in your pocket. It's calculated like this:
+
+**In easy mode:** If the user's balance is less than 256, the amount of emeralds dropped is `balance * 1/random(3, 3.25, 3.5, 3.75, 4)``
+If the user's balance is more than 256, the amount of emeralds dropped is `512 * 1/random(3, 3.25, 3.5, 3.75, 4)``
+
+**In hard mode:** If the user's balancd is less than 256, the amount of emeralds dropped is `balance * 1/random(1.75, 2, 2.25, 2.5)``
+If the user's balance is more than 256, the amount of emeralds dropped is `512 * 1/random(1.75, 2, 2.25, 2.5)`
+
 
 Looting books increase the amount of emeralds dropped.
 
