@@ -4,7 +4,9 @@ Mobs spawn naturally while mining. They spawn randomly every 40 mines. They are 
 
 You can attack a mob by typing `attack`, `fight`, `punch`, `atk`, `kill`, `kil`, `atack`, `stab`, `stabb`, or `bonk`.
 
-A mob deals a random damage between 2 and 6.
+If you ever need to flee from a mob because of low health, you can type one of the following: `flee`, `run`, `iamababy`, `run away`, `i am a baby`, or `mommy`.
+
+A user has a total of 20 HP. A mob deals a random damage between 2 and 6. To replenish health, the user can use honey jars. Each honey jar heals 1 HP.
 
 Swords are used to deal damage to mobs. Different swords deal different damage. 
 
@@ -29,10 +31,10 @@ Slimes are a different type of mob. Unlike other mobs, the slime is invincible f
 After the mob dies, it drops emeralds. The amount of emeralds dropped are based on two variables: difficulty and the amount of emeralds in your pocket. The drops max out if there is more than 256 emeralds in your pocket. It's calculated like this:
 
 **In easy mode:** If the user's balance is less than 256, the amount of emeralds dropped is `balance * 1/random(3, 3.25, 3.5, 3.75, 4)``
-If the user's balance is more than 256, the amount of emeralds dropped is `512 * 1/random(3, 3.25, 3.5, 3.75, 4)``
+If the user's balance is more than 256, the amount of emeralds dropped is `512 * 1/random(3, 3.25, 3.5, 3.75, 4)`.
 
-**In hard mode:** If the user's balancd is less than 256, the amount of emeralds dropped is `balance * 1/random(1.75, 2, 2.25, 2.5)``
-If the user's balance is more than 256, the amount of emeralds dropped is `512 * 1/random(1.75, 2, 2.25, 2.5)`
+**In hard mode:** If the user's balance is less than 256, the amount of emeralds dropped is `balance * 1/random(1.75, 2, 2.25, 2.5)``
+If the user's balance is more than 256, the amount of emeralds dropped is `512 * 1/random(1.75, 2, 2.25, 2.5)`.
 
 
 Looting books increase the amount of emeralds dropped.
