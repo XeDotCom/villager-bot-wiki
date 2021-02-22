@@ -4,10 +4,11 @@ The official wiki!
 ## Menu
 
 - Intro: [Click here](./1-intro.md)
-- Getting started: [Click here](./2-getting-started.md)
+- Getting Started: [Click here](./2-getting-started.md)
 - Commands: [Click here](./3-commands.md)
-- Mining: : [Click here](./4-mining.md)
-- Mobs: [Click here](./5-mobs.md)
+- Economy: [Click here](./4-economy.md)
+- Mining: [Click here](./5-mining.md)
+- Mobs: [Click here](./6-mobs.md)
 
 ## Contributing
 If you wanna help, join the [server!](https://discord.gg/XwgJ69uHQY)
