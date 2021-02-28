@@ -1,4 +1,4 @@
-# villager-bot-wiki
+# The Villager Bot Wiki
 The official wiki!
 
 ## Menu
@@ -12,3 +12,6 @@ The official wiki!
 
 ## Contributing
 If you wanna help, join the [server!](https://discord.gg/XwgJ69uHQY)
+
+## Deadline
+Probably by 14th March dont quote me on this.
