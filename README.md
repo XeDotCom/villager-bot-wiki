@@ -1,4 +1,4 @@
-# The Villager Bot Wiki
+## The Villager Bot Wiki
 The official wiki!
 
 ## Menu
