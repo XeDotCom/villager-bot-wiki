@@ -30,7 +30,7 @@ The Sharpness enchantment increases damage caused to mobs.
 ### Baby Slimes
 Slimes are a different type of mob. Unlike other mobs, the slime is invincible for the first two attacks. After the second attack, there is a 1/3 chance of your attack dealing damage to the mob. Slimes drop slimeballs, which can be used to buy the slime trophy, which doubles your accuracy against slimes.
 
-### Mob drops
+### Mob Drops
 
 After the mob dies, it drops emeralds. The amount of emeralds dropped are based on two variables: difficulty and the amount of emeralds in your pocket. The drops max out if there is more than 256 emeralds in your pocket. It's calculated like this:
 
