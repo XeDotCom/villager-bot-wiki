@@ -7,6 +7,7 @@ You can attack a mob by typing `attack`, `fight`, `punch`, `atk`, `kill`, `kil`,
 If you ever need to flee from a mob because of low health, you can type one of the following: `flee`, `run`, `iamababy`, `run away`, `i am a baby`, or `mommy`.
 
 ### Health and Damage
+
 A user has a total of 20 HP. A mob deals a random damage between 2 and 6. To replenish health, the user can use honey jars. Each honey jar heals 1 HP.
 
 Swords are used to deal damage to mobs. Different swords deal different damage.

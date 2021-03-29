@@ -4,21 +4,21 @@ In this section, we'll be taking a brief overview of all the commands!
 
 ### Economy
 
-- [!!mine](): Mine for emeralds and items!
-- [!!profile](): See your profile.
-- [!!inventory](): Check your inventory.
-- [!!balance](): See how many emeralds you have!
-- [!!deposit](): Store your money in the vault.
-- [!!withdraw](): Withdraw from the vault.
-- [!!give](): Bestow your benevolence on your friends.
-- [!!shop](): Buy items and tools from the Villager Shop!
-- [!!buy](): Buy items from the shop.
-- [!!sell](): Sell your items to the bot.
-- [!!search](): Find some rogue emeralds. 
-- [!!honey](): Collect honey from your apiary.
-- [!!pillage](): Steal from your friends.
-- [!!use](): Use potions and presents. 
-- [!!leaderboard](): Check who's on top. 
+- [!!mine](5-mining.md): Mine for emeralds and items!
+- [!!profile](4-economy.md): See your profile.
+- [!!inventory](4-economy.md): Check your inventory.
+- [!!balance](4-economy.md): See how many emeralds you have!
+- [!!deposit](4-economy.md): Store your money in the vault.
+- [!!withdraw](4-economy.md): Withdraw from the vault.
+- [!!give](4-economy.md): Bestow your benevolence on your friends.
+- [!!shop](7-shop.md): Buy items and tools from the Villager Shop!
+- [!!buy](7-shop.md): Buy items from the shop.
+- [!!sell](4-economy.md): Sell your items to the bot.
+- [!!search](4-economy.md): Find some rogue emeralds. 
+- [!!honey](4-economy.md): Collect honey from your apiary.
+- [!!pillage](4-economy.md): Steal from your friends.
+- [!!use](4-economy.md): Use potions and presents. 
+- [!!leaderboard](4-economy.md): Check who's on top. 
 
 ### Moderation
 
