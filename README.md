@@ -14,4 +14,4 @@ The official wiki!
 If you wanna help, join the [server!](https://discord.gg/XwgJ69uHQY)
 
 ## Deadline
-April 14th.
+No im not setting up a deadline xD
