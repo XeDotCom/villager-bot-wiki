@@ -9,6 +9,8 @@ The official wiki!
 - Economy: [Click here](./4-economy.md)
 - Mining: [Click here](./5-mining.md)
 - Mobs: [Click here](./6-mobs.md)
+- Shop: [Click here](./7-shop.md)
+- Fishing [Click here](./8-fish.md)
 
 ## Contributing
 If you wanna help, join the [server!](https://discord.gg/XwgJ69uHQY)
