@@ -9,7 +9,7 @@ Fishing requires a fishing rod which you can buy from [the shop](7-shop.md). Whe
 ### The Bite
 
 When you feel that tug and reel it in, it could be a junk item or a fish.
-You can find 5 varieties of fish: 
+You can find 5 varieties of fish (rarity is a number which affects how common fish drop, 0 being most common and 5 being least common): 
 
 | Fish          | Rarity |
 |---------------|--------| 

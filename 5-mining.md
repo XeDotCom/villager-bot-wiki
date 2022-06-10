@@ -41,7 +41,13 @@ Fortune books increase the amount of emeralds you can get per mine.
 |           | 20%: 3   |
 |           | 20%: 4   |
 
-Other items also influence your emerald yield:
+### Trash
+
+While mining, you will encounter "trash" items, including cobblestone, iron, gold and diamond. These drops are inconsequential to the bot as villagers only care about emeralds, but you can sieve through the trash to find some extra emeralds by using `!!trash`. The amount of emeralds you find can be influenced by the Rich Person Trophy (bought from the shop), and the Recycler, which can be found as a 1/50,000 drop while mining. Both of these items double your findings from digging around the trash. 
+
+### Buffs
+
+Other items which also influence your emerald yield:
 
 - Bane Of Pillagers Amulet: adds 2 more emeralds to your base yield.
 - Rich Person Trophy: doubles your yield.
