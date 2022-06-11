@@ -21,7 +21,7 @@
 
 - Changing the language: `!!config language <language code>`
 
-  The bot is currently only available in Spanish (es) and English(US) (en-us).
+  The bot is currently available in Spanish (es), French (fr), Portugese (pt) and English(US) (en). Other langauges are currently being implemented. 
   Example: `!!config language es` (changes the language to Spanish! ¡hola!)
-  
+
   You're all set up!
