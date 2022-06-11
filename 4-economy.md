@@ -10,11 +10,23 @@ Villager Bot has a very solid economy system. This system is solely based on eme
 - Searching. Using the `/search` command, also known as `/beg`, allows you to search for emeralds (every 30 minutes). However, there is a small chance that you lose emeralds.
 - [Fishing](8-fishing.md). Fishing is one of the most profitable methods although it is slower than mining.
 - [Farming](9-farming.md). Farming is the best passive income method for players who have a disposable income ready and doesn't want to spend time mining or fishing.
+-Selling. You can also sell items to the bot at a lower price than trading, by using the `!!sell` command.
+-Pillaging. You can rob other players in your server by using the `!!pillage` command. The chance of you getting pillaged can be decreased by having more bees, having a Bane Of Pillagers Amulet or by depositing all your emeralds into the vault.
 
 ### Your balance
 
 You can do `!!balance` to find out how many emeralds you have. The command returns an embed with 3 values:
 
-- Vault: this is the amount of emerald blocks in your vault. The emeralds in your vault cannot be used or pillaged, or will be counted towards mob drop calculations, unlike your pocket.
+- Vault: this is the amount of emerald blocks in your vault. The emeralds in your vault cannot be used or pillaged, or will be counted towards mob drop calculations, unlike your pocket. To deposit emeralds into your vault, do `!!deposit [emerald blocks]`, and to retrieve emeralds from your vault, do `!!withdraw [emerald blocks]`.
 - Pocket: this is the amount of emeralds you can use right now.
 - Net worth: this is the sum of the value of all the items in your inventory alongside your balance.
+
+### Your inventory
+
+Your inventory consists of all the items you own. This can include anything from tools to fish to collectibles. The inventory is divided into 5 sections.
+
+- Tools (`!!inventory tools`): Shows all the tools you own.
+- Magic (`!!inventory magic`) Shows all the buffs you own, including seaweed and Haste potions.
+- Fish (`!!inventory fish`): Shows all the fish you have caught.
+- Farm (`!!inventory farm`): Shows all the crops and seeds you own.
+- Other (`!!inventory other`): Shows all the collectibles you have.
