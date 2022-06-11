@@ -4,12 +4,12 @@ The Villager Shop is one of the most important aspects of the bot. It is this pl
 
 ### Categories
 
-The Vilager Shop can be categorised into 4 main categories,
+The Villager Shop can be categorized into 4 main categories,
 
 1. [Tools](#tools)
 2. [Magic](#magic)
 3. [Other](#other)
-4. [Fish](#fish)
+4. [Farm](#farm)
 
 #### Tools
 
@@ -24,6 +24,7 @@ Here you can buy "Magical" stuff like Enchanted Books & Potions
 
 Here you can buy items like "Jar of Bees", "Netherite Scrap", [**"Rich Person Trophy"**]("WARNING This Item wipes all your progress, think before buying." README.md) & [Slime Trophy]("This item doubles your hitting accuracy against slimes." README.md)
 
-#### Fish
+#### Farm
 
-👀
+Here you can buy hoes and various seeds for farming.
+For more info on farming you can see it's page [here](9-farming.md).
