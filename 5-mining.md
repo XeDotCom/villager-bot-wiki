@@ -4,7 +4,7 @@ Mining is one of the most important parts of the economy in this bot. You mine f
 
 ### Cooldown
 
-The command has a two second cooldown. Cooldown is affected by haste potions and efficiency books.
+The command has a four second cooldown. Cooldown is affected by haste potions and efficiency books.
 
 |      Item           | Change in cooldown |
 |---------------------|--------------------|
