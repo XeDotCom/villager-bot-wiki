@@ -8,7 +8,7 @@ If you ever need to flee from a mob because of low health, you can type one of t
 
 ### Health and Damage
 
-A user has a total of 20 HP. A mob deals a random damage between 2 and 6. To replenish health, the user can use honey jars. Each honey jar heals 1 HP.
+A user has a total of 20 HP. A mob deals a random damage between 2 and 6. To replenish health, the user can use honey jars. Each honey jar heals 1 HP. However, this action can only be done when not engaged with a mob.
 
 Swords are used to deal damage to mobs. Different swords deal different damage. You also deal 1.3X less damage on Hard mode. 
 
