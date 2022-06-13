@@ -10,9 +10,9 @@ Villager Bot has a very solid economy system. This system is solely based on eme
 - Searching. Using the `/search` command, also known as `/beg`, allows you to search for emeralds (every 30 minutes). However, there is a small chance that you lose emeralds.
 - [Fishing](8-fishing.md). Fishing is one of the most profitable methods although it is slower than mining.
 - [Farming](9-farming.md). Farming is the best passive income method for players who have a disposable income ready and doesn't want to spend time mining or fishing.
--Selling. You can also sell items to the bot at a lower price than trading, by using the `!!sell` command.
--Pillaging. You can rob other players in your server by using the `!!pillage` command. The chance of you getting pillaged can be decreased by having more bees, having a Bane Of Pillagers Amulet or by depositing all your emeralds into the vault.
--Gambling. Gambling is a very risky way of earning emeralds. You can bet a sum no higher than 10,000 emeralds, for a chance of getting {{{{{{{X}}}}}}}% back. This is by far the riskiest method but it can pay off.
+- Selling. You can also sell items to the bot at a lower price than trading, by using the `!!sell` command.
+- Pillaging. You can rob other players in your server by using the `!!pillage` command. The chance of you getting pillaged can be decreased by having more bees, having a Bane Of Pillagers Amulet or by depositing all your emeralds into the vault.
+- Gambling. Gambling is a very risky way of earning emeralds. You can bet a sum no higher than 10,000 emeralds, for a chance of getting {{{{{{{X}}}}}}}% back. This is by far the riskiest method but it can pay off.
 
 ### Your balance
 
