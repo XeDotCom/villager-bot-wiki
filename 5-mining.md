@@ -4,7 +4,7 @@ Mining is one of the most important parts of the economy in this bot. You mine f
 
 ### Cooldown
 
-The command has a four second cooldown. Cooldown is affected by haste potions and efficiency books.
+The command has a four second cooldown. The cooldown can be decreased by using haste potions and having an efficiency book.
 
 |      Item           | Change in cooldown |
 |---------------------|--------------------|
@@ -43,7 +43,7 @@ Fortune books increase the amount of emeralds you can get per mine.
 
 ### Trash
 
-While mining, you will encounter "trash" items, including cobblestone, iron, gold and diamond. These drops are inconsequential to the bot as villagers only care about emeralds, but you can sieve through the trash to find some extra emeralds by using `!!trash`. The amount of emeralds you find can be influenced by the Rich Person Trophy (bought from the shop), and the Recycler, which can be found as a 1/50,000 drop while mining. Both of these items double your findings from digging around the trash.
+While mining, you will encounter "trash" items, including cobblestone, iron, gold, diamond, etc. These drops are inconsequential to the bot as villagers only care about emeralds, but you can sieve through the trash to find some extra emeralds by using `!!trash`. The amount of emeralds you find can be influenced by the Rich Person Trophy (bought from the shop), and the Recycler, which can be found as a 1/50,000 drop while mining. Both of these items double your findings from digging around the trash.
 
 ### Buffs
 
