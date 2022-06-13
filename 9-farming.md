@@ -10,6 +10,15 @@ To start farming you need seeds and a hoe, both of which can be bought from the 
 
 To plant seeds you can run `!!farm plant [seed]`, while having the respective seed in your inventory.
 
+|    Hoe    | Plot Size |
+|-----------|-----------|
+|   Wood    | 10 crops  |
+|   Stone   | 20 crops  |
+|   Iron    | 30 crops  |
+|   Gold    | 40 crops  |
+|  Diamond  | 50 crops  |
+| Netherite | 60 crops  |
+
 ### Growth Times
 
 The length of time it takes each seed to become harvestable varies according to the seed.
@@ -22,7 +31,7 @@ The length of time it takes each seed to become harvestable varies according to 
 |   Carrot     | 6 hours  |
 |    Wheat     | 1 hour   |
 
-The time needed for growth can be skipped by using a Bone Meal item, which can only be found from mining and fishing, and is a 1/50,000 drop. Make sure to use it carefully!
+The time needed for growth can be skipped by using a Bone Meal item, which can only be found from mining and fishing, and is a 1/50,000 drop. Make sure to use it wisely!
 
 ### Cultivation
 
