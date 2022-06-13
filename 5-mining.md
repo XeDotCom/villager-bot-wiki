@@ -1,6 +1,6 @@
 ## 5. Mining
 
-Mining is one of the most important parts of the economy in this bot. You mine for emeralds, the main currency and items, which can be collected! To mine, you use the `!!mine` command or its aliases, `!!eun` and `!!mein`.
+Mining is one of the most important parts of the economy in this bot. You mine for emeralds, the main currency and items, which can be collected! To mine, you use the `!!mine` command or its aliases, `!!mein`, `!!eun`, `!!mien`, and `!!m`.
 
 ### Cooldown
 
