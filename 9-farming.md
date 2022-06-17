@@ -4,6 +4,13 @@
 
 Farming is one of the newest additions to Villager Bot, and is a passive income system. Your farm can be accessed by using `!!farm`.
 
+```
+DISCLAIMER:
+
+The prefix used in this wiki / guide is the default prefix for Villager Bot. This may not be the prefix used in your server, make sure to ask your server administrator first or mention @Villager Bot to find the correct prefix.
+
+```
+
 ### How to start Farming
 
 To start farming you need seeds and a hoe, both of which can be bought from the [Villager Shop](7-shop.md). Hoes increase the plantable area you have, while seeds are, well seeds.

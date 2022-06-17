@@ -8,6 +8,13 @@
 
 ### Step 2: Basic Configuration (optional)
 
+```
+DISCLAIMER:
+
+The prefix used in this wiki / guide is the default prefix for Villager Bot. This may not be the prefix used in your server, make sure to ask your server administrator first or mention @Villager Bot to find the correct prefix.
+
+```
+
  You can do some basic configuration to personalize the bot for your server. All configuration setup is done through the `!!config` command.
 
 - Changing the prefix: `!!config prefix <new prefix here>`

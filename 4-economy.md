@@ -2,6 +2,13 @@
 
 Villager Bot has a very solid economy system. This system is solely based on emeralds (hmmrhhrgh). This page brifely goes through the economy system.
 
+```
+DISCLAIMER:
+
+The prefix used in this wiki / guide is the default prefix for Villager Bot. This may not be the prefix used in your server, make sure to ask your server administrator first or mention @Villager Bot to find the correct prefix.
+
+```
+
 ### Best way to get emeralds?
 
 - [Mining](5-mining.md). Mining gets you between 1 and 14 emeralds per command. You can also sieve through the trash you collect while mining to find some extra emeralds.

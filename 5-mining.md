@@ -2,6 +2,13 @@
 
 Mining is one of the most important parts of the economy in this bot. You mine for emeralds, the main currency and items, which can be collected! To mine, you use the `!!mine` command or its aliases, `!!mein`, `!!eun`, `!!mien`, and `!!m`.
 
+```
+DISCLAIMER:
+
+The prefix used in this wiki / guide is the default prefix for Villager Bot. This may not be the prefix used in your server, make sure to ask your server administrator first or mention @Villager Bot to find the correct prefix.
+
+```
+
 ### Cooldown
 
 The command has a four second cooldown. The cooldown can be decreased by using haste potions and having an efficiency book.

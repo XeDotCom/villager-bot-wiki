@@ -1,6 +1,13 @@
 ## 7. The Villager Shop
 
-The Villager Shop is one of the most important aspects of the bot. It is this place where you buy tools, basic enchantments and other items. You can access the shop with `!!shop`
+The Villager Shop is one of the most important aspects of the bot. It is this place where you buy tools, basic enchantments and other items. You can access the shop with `!!shop`.
+
+```
+DISCLAIMER:
+
+The prefix used in this wiki / guide is the default prefix for Villager Bot. This may not be the prefix used in your server, make sure to ask your server administrator first or mention @Villager Bot to find the correct prefix.
+
+```
 
 ### Categories
 

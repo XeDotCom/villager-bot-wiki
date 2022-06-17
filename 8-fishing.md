@@ -1,6 +1,13 @@
 ## Fishing
 
-Yup. Villager Bot has fishing. Fishing is one of the newest additions to Villager Bot. You can fish by using the `!!fish` command. Aliases for this command include: `!!phish`, `!!feesh`, or `!!f`
+Yup. Villager Bot has fishing. Fishing is one of the newest additions to Villager Bot. You can fish by using the `!!fish` command. Aliases for this command include: `!!phish`, `!!feesh`, or `!!f`.
+
+```
+DISCLAIMER:
+
+The prefix used in this wiki / guide is the default prefix for Villager Bot. This may not be the prefix used in your server, make sure to ask your server administrator first or mention @Villager Bot to find the correct prefix.
+
+```
 
 ### The Hook
 

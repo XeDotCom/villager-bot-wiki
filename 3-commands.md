@@ -2,6 +2,13 @@
 
 In this section, we'll be taking a brief overview of all the commands!
 
+```
+DISCLAIMER:
+
+The prefix used in this wiki / guide is the default prefix for Villager Bot. This may not be the prefix used in your server, make sure to ask your server administrator first or mention @Villager Bot to find the correct prefix.
+
+```
+
 ### Economy
 
 - [!!mine](5-mining.md): Mine for emeralds and items!
