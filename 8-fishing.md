@@ -23,31 +23,15 @@ You can find 5 varieties of fish (rarity is a number which affects how common fi
 
 You can also find special items while fishing: 
 
-|       Item         | Rarity |  Purpose                              |
-|--------------------|--------|---------------------------------------|
-| Lure I Book        | 200    | Reduces cooldown.                     |
-| Rusty Fishing Hook | 999    | Collectible.                          |
-| Seaweed            | 6669   | Reduces cooldown.                     |
-| Heart Of The Sea   | 6669   | Can be used to craft Fishing Trophies |
+|       Item       | Rarity |  Purpose  |
+|------------------|--------|-----------|
+| Lure I Book | 200 | Reduces cooldown. |
+| Rusty Fishing Hook | 999 | Collectible. |
+| Seaweed | 6669 | Reduces cooldown. |
+| Heart Of The Sea | 6669 | Can be used to craft Fishing Trophies |
 
 You can also find:
 - hopes and dreams 
 - memes
 - disappointment
 
-### The Sinker
-
-The price of fish changes every 12 hours, which means you can get either a better deal on your fish or a worse one. The change of the price of fish is different for each fish:
-
-|      Fish        | Change in price |
-|------------------|-----------------|
-|      Cod         |      2-15       |
-|     Salmon       |      10-40      |
-|  Tropical Fish   |     30-120      |
-|   Pufferfish     |     60-200      |
-|   Rainbow Trout  |     180-290     |
-|    Gold Fish     |     200-300     |
-|   Emerald Fish   |     600-800     |
-
-
-Tropical fish are the most profitable, as they are relatively common but have prices that reach the 100s quite often. 
