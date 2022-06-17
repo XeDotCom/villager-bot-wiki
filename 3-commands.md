@@ -5,6 +5,7 @@ In this section, we'll be taking a brief overview of all the commands!
 ### Economy
 
 - [!!mine](5-mining.md): Mine for emeralds and items!
+- [!!trash](5-mining.md): Empty your trashcan!
 - [!!profile](4-economy.md): See your profile.
 - [!!inventory](4-economy.md): Check your inventory.
 - [!!balance](4-economy.md): See how many emeralds you have!
@@ -14,11 +15,13 @@ In this section, we'll be taking a brief overview of all the commands!
 - [!!shop](7-shop.md): Buy items and tools from the Villager Shop!
 - [!!buy](7-shop.md): Buy items from the shop.
 - [!!sell](4-economy.md): Sell your items to the bot.
-- [!!search](4-economy.md): Find some rogue emeralds. 
+- [!!search](4-economy.md): Find some rogue emeralds.
 - [!!honey](4-economy.md): Collect honey from your apiary.
 - [!!pillage](4-economy.md): Steal from your friends.
-- [!!use](4-economy.md): Use potions and presents. 
-- [!!leaderboard](4-economy.md): Check who's on top. 
+- [!!use](4-economy.md): Use potions and presents.
+- [!!leaderboard](4-economy.md): Check who's on top.
+- [!!fish](8-fishing.md): Fish to catch fish!
+- [!!farm](9-farming.md): Take care of your crops!
 
 ### Moderation
 
@@ -28,9 +31,9 @@ In this section, we'll be taking a brief overview of all the commands!
 - [!!kick](): Kick a user..
 - [!!ban](): Ban a user.
 - [!!pardon](): Unban a user.
-- [!!purge](): Purge messages. 
+- [!!purge](): Purge messages.
 
-### Utility 
+### Utility
 
 - [!!help](): Shows the help message.
 - [!!ping](): Check the ping of the bot.
@@ -38,20 +41,20 @@ In this section, we'll be taking a brief overview of all the commands!
 - [!!config](): Change the bot's settings.
 - [!!links](): See the bot's important links.
 - [!!stats](): See the bot's stats.
-- [!!vote](): Vote for the bot. 
+- [!!vote](): Vote for the bot.
 - [!!google](): Search on Google.
-- [!!youtube](): Search on YouTube. 
+- [!!youtube](): Search on YouTube.
 - [!!image](): Fetches an image.
 
 ### Fun
 
 - [!!cursed](): Shows a cursed Minecraft picture.
-- [!!4chan](): Shows a 4chan picture. 
+- [!!4chan](): Shows a 4chan picture.
 - [!!meme](): Fetches a meme from Reddit.
 - [!!comic](): Shows a comic.
-- [!!say](): Make the bot say anything. 
+- [!!say](): Make the bot say anything.
 - [!!enchant](): Translate English to the Galactic Alphabet (enchanting table language).
-- [!!disenchant](): Translate the Galactic Alphabet to English. 
+- [!!disenchant](): Translate the Galactic Alphabet to English.
 - [!!villagerspeak](): Translate English to what the villagers say.
 - [!!clap](): 👏 Make 👏 text 👏 look 👏 like 👏 this.👏
 - [!!emojify](): Turn text into alphabetic emojis.
@@ -65,13 +68,13 @@ In this section, we'll be taking a brief overview of all the commands!
 - [!!achievement](): Achievement get: Make custom achievements!
 - [!!splashtext](): Make custom splashes!
 
-### Minecraft 
+### Minecraft
 
 - [!!mcstatus](): Find the status of a specified Minecraft server.
 - [!!randommc](): Find a random server.
 - [!!mcimage](): Turn images into pixel art!
 - [!!stealskin](): Fetch someone's skin.
-- [!!mcprofile](): Fetch details about a Minecraft player. 
+- [!!mcprofile](): Fetch details about a Minecraft player.
 - [!!buildidea](): Get a random build idea!
 - [!!rcon](): Execute Minecraft commands, straight from Discord!
 - [!!mccolors](): Get info on how to color chat messages.
