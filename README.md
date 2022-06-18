@@ -1,5 +1,5 @@
 ## The Villager Bot Wiki
-The official wiki!
+The official wiki for Villager Bot, a multi-functional bot created by Iapetus11. Invite it [here](https://top.gg/bot/639498607632056321)!
 
 ## Menu
 
@@ -11,6 +11,8 @@ The official wiki!
 - Mobs: [Click here](./6-mobs.md)
 - Shop: [Click here](./7-shop.md)
 - Fishing [Click here](./8-fishing.md)
+- Farming [Click here](./9-farming.md)
+- Items [Click here](./10-items.md)
 
 ## Contributing
 If you wanna help, join the [server!](https://discord.gg/XwgJ69uHQY)
